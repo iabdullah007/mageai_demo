@@ -1,0 +1,8 @@
+config:
+  database: mage/demo
+  host: bit.io
+  password: v2_43Yy3_5LtqyXUE3ew6PrqH2y8zQyH
+  port: 5432
+  schema: mage
+  username: mage
+source: postgresql
